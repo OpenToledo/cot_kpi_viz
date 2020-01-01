@@ -22,7 +22,7 @@
                 "sha256:d6393918da830530a9516bbbcbf7f1214c3d733738779f06b0f649f49cc698c3"
             ],
             "index": "pypi",
-            "version": "==2.1.5"
+            django = ">=2.1.11"
         },
         "pytz": {
             "hashes": [
